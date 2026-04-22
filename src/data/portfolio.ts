@@ -9,7 +9,7 @@ export const portfolioData = {
     github: "https://github.com/HarshCode05",
     linkedin: "https://linkedin.com/in/harshagrawal050903/",
     email: "mailto:harshagrawal050903@gmail.com",
-    instagram: "https://instagram.com/", // update with your handle
+    instagram: "https://www.instagram.com/harsh_agrawal_05/?hl=en", // update with your handle
   },
   skills: [
     { category: "Languages", items: ["Python", "Java", "SQL"] },
@@ -26,7 +26,7 @@ export const portfolioData = {
         "Built a data-driven ML solution to predict customer churn with 85%+ accuracy. Features interactive dashboards with filters for age, gender, city, and state using Streamlit.",
       tech: ["Python", "Pandas", "Scikit-learn", "Streamlit"],
       github: "https://github.com/HarshCode05",   // update with exact repo link
-      live: "#",                                    // update with Vercel/live link
+      live: "https://telecomchurnanalysis.streamlit.app/",                                    // update with Vercel/live link
       featured: true,
     },
     // ➕ ADD MORE PROJECTS HERE — copy the block above and fill in details
